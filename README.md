@@ -54,7 +54,7 @@ src/
 
 1.  **Clona il repository:**
     ```bash
-    git clone [https://github.com/federicamudu/motogp-hub.git](https://github.com/federicamudu/motogp-hub.git)
+    git clone [https://github.com/federicamudu/MotoGP-HUB.git](https://github.com/federicamudu/MotoGP-HUB.git)
     ```
 2.  **Installa le dipendenze:**
     ```bash
